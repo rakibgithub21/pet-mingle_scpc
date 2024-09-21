@@ -1,12 +1,12 @@
 
-import logo from '../../assets/logo/d1ef7c5065c8a9078f6c2f0413405c15 (1).svg'
+import logo from '../assets/logo/d1ef7c5065c8a9078f6c2f0413405c15 (1).svg'
 
 const Fotter = () => {
     return (
         <footer className="footer footer-center bg-primary text-primary-content p-10">
             <aside>
                 <img src={logo} alt="" />
-                <p className="font-bold">
+                <p className="">
                     PetMingle
                     <br />
                     Where Pets Meet Their Forever Family!
